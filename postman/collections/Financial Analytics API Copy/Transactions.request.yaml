@@ -1,0 +1,7 @@
+$kind: http-request
+url: "   http://localhost:5000/api/transactions?page=1&limit=10"
+method: GET
+queryParams:
+  page: "1"
+  limit: "10"
+order: 2113297359668732
